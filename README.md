@@ -1,8 +1,8 @@
-# My Planner App - INFO6134 Capstone Project - Group 07
+# TING!
 
-## Welcome to My Planner App!
+## Welcome to Ting
 
-Your ultimate companion for seamless organization and task management. Developed by FOL Group 07 as part of the INFO6134 Capstone Project, this app is designed to simplify your life and enhance your productivity.
+Your ultimate companion for seamless organization and task management. This app is designed to simplify your life and enhance your productivity.
 
 ## Key Features
 
@@ -11,9 +11,6 @@ Your ultimate companion for seamless organization and task management. Developed
 
 - **Task Editing and Deletion:**
   Enjoy the flexibility of editing or deleting specific tasks as your plans evolve. Adapt to changes effortlessly and keep your planner up-to-date with just a few taps.
-
-- **Firebase Integration:**
-  Leverage the power of Firebase for efficient data storage. Your tasks are securely saved, and you can access them from any device, providing a seamless and synchronized experience.
 
 - **Study Timer:**
   Boost your productivity with the built-in Study Timer feature. Set dedicated study sessions, track your progress, and achieve your academic goals with focused, timed study sessions.
@@ -51,25 +48,16 @@ Your ultimate companion for seamless organization and task management. Developed
 - Activity Log
 - Weather check feature to plan tasks
 
-## Group Members
+## Screenshots
 
-- **Ronald Bagaporo Jr.** - Modifier / Editor
-- **Imasha Ekanayake** - Modifier / Editor
-- **Matthew Ovie Enamuotor** - Modifier / Editor
-- **Ramesh Abeysekara** - Modifier / Editor
+### Splashscreen
 
-## Installation
+### Dashboard
 
-[Instructions on how to install the app]
+### Tasks
 
-## Usage
+### Study Timer
 
-[Guidelines on how to use the app]
+### Weather Check
 
-## Contributing
-
-[Instructions for contributing to the project]
-
-## License
-
-[Information about the project's license]
+### Activity Logs
