@@ -50,14 +50,49 @@ Your ultimate companion for seamless organization and task management. This app 
 
 ## Screenshots
 
+<div style="display: flex; flex-direction: row; gap: 20px;">
+  <img src="./assets/login.png" width="200px" alt="screenshot">
+  <img src="./assets/signup.png" width="200px" alt="screenshot">
+</div>
+
 ### Splashscreen
+
+<div style="display: flex; flex-direction: row; gap: 20px;">
+  <img src="./assets/login.png" width="200px" alt="screenshot">
+  <img src="./assets/signup.png" width="200px" alt="screenshot">
+</div>
 
 ### Dashboard
 
+<div style="display: flex; flex-direction: row; gap: 20px;">
+  <img src="./assets/login.png" width="200px" alt="screenshot">
+  <img src="./assets/signup.png" width="200px" alt="screenshot">
+</div>
+
 ### Tasks
+
+<div style="display: flex; flex-direction: row; gap: 20px;">
+  <img src="./assets/login.png" width="200px" alt="screenshot">
+  <img src="./assets/signup.png" width="200px" alt="screenshot">
+</div>
 
 ### Study Timer
 
+<div style="display: flex; flex-direction: row; gap: 20px;">
+  <img src="./assets/login.png" width="200px" alt="screenshot">
+  <img src="./assets/signup.png" width="200px" alt="screenshot">
+</div>
+
 ### Weather Check
 
+<div style="display: flex; flex-direction: row; gap: 20px;">
+  <img src="./assets/login.png" width="200px" alt="screenshot">
+  <img src="./assets/signup.png" width="200px" alt="screenshot">
+</div>
+
 ### Activity Logs
+
+<div style="display: flex; flex-direction: row; gap: 20px;">
+  <img src="./assets/login.png" width="200px" alt="screenshot">
+  <img src="./assets/signup.png" width="200px" alt="screenshot">
+</div>

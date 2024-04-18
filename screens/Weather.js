@@ -43,7 +43,7 @@ const Weather = () => {
         onChangeText={setCity}
       />
       <Button style={styles.button} mode="contained" onPress={fetchWeatherData}>
-        Fetch Weather
+        Check The Weather
       </Button>
       {forecastData.length > 0 && (
         <View style={styles.forecastContainer}>
