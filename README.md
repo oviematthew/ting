@@ -87,3 +87,11 @@ Your ultimate companion for seamless organization and task management. This app 
 <div style="display: flex; flex-direction: row; gap: 20px;">
   <img src="./assets/activity.png" width="250px" alt="screenshot">
 </div>
+
+## Group Members
+
+- **Ronald Bagaporo Jr.** - Modifier / Editor
+- **Imasha Ekanayake** - Modifier / Editor
+- **Matthew Ovie Enamuotor** - Modifier / Editor
+- **Ramesh Abeysekara** - Modifier / Editor
+
