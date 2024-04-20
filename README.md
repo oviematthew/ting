@@ -90,8 +90,8 @@ Your ultimate companion for seamless organization and task management. This app 
 
 ## Group Members
 
-- **Ronald Bagaporo Jr.** - Modifier / Editor
-- **Imasha Ekanayake** - Modifier / Editor
-- **Matthew Ovie Enamuotor** - Modifier / Editor
-- **Ramesh Abeysekara** - Modifier / Editor
+- **Ronald Bagaporo Jr.**
+- **Imasha Ekanayake** 
+- **Matthew Ovie Enamuotor
+- **Ramesh Abeysekara**
 
