@@ -88,10 +88,10 @@ Your ultimate companion for seamless organization and task management. This app 
   <img src="./assets/activity.png" width="250px" alt="screenshot">
 </div>
 
-## Group Members
+## Contributors
 
 - **Ronald Bagaporo Jr.**
 - **Imasha Ekanayake** 
-- **Matthew Ovie Enamuotor
+- **Matthew Ovie Enamuotor**
 - **Ramesh Abeysekara**
 
